@@ -1,4 +1,4 @@
-# paculas-curse-decompilation
+# Pac-Guy 2: Part 3: Kansylvania (Pacula's Curse) Decompilation
 A decompilation of Pac-Guy 2: Part 3: Kansylvania brought to you by CTFAK and one clever folk.
 
 ## Bugs
