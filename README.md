@@ -3,6 +3,7 @@ A decompilation of Pac-Guy 2: Part 3: Kansylvania brought to you by CTFAK and on
 
 ## Changes
 - Game now runs in windowed mode instead of full screen  
+- Lives counter displays weird
 
 ## Bugs
 - Issues with incorrect transitions and transparency stuff
