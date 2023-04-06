@@ -1,11 +1,11 @@
 # Pac-Guy 2: Part 3: Kansylvania (Pacula's Curse) Decompilation
 A decompilation of Pac-Guy 2: Part 3: Kansylvania brought to you by CTFAK and one clever folk.
 
+## Changes
+- Game now runs in windowed mode instead of full screen  
+
 ## Bugs
-- Missing MIDIs  
-- Score object uses stage 1 terrain graphics and often covers a portion of the screen  
-- Issues with incorrect transitions and probably transparency stuff too  
-- Fire button is shift, not space  
+- Issues with incorrect transitions and transparency stuff
 
 ## Credits
 - Astral Entertainment for making the original game  
@@ -15,9 +15,10 @@ A decompilation of Pac-Guy 2: Part 3: Kansylvania brought to you by CTFAK and on
 
 ## File information
 
-The 106MB .MFA project file was split into 7 10MB (and 1 4MB) .7z format volumes. (too big for GitHub)
-Filename: ``Pacula-2017-Fusion-A.mfa`` SHA1: ``a15f08da03da5a439937fd37fea76c6ff7ff9c61``
+The 106MB .MFA project file was split into 8 .7z format volumes. (too big for GitHub)
 
 There are also 3 MP3 files used for background music in the game that are required. These are included.
+
+The Ovine Rubber Transitions DLL is also needed. (Included)
 
 MFA was generated from ``Pacula-2017-Fusion-A.exe``, SHA1: ``45900af49fea3c495ffe0043538755f2f246772e``
